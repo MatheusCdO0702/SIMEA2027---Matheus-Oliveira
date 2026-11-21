@@ -1,0 +1,27 @@
+{
+  "parametros": {
+    "lat_graus": -23.45,
+    "lon_graus": -46.53,
+    "anos_serie_fv": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "inclinacao_fv_graus": 23.0,
+    "albedo": 0.2,
+    "fonte": "NASA POWER hourly",
+    "time_standard": "LST",
+    "variaveis": [
+      "GHI",
+      "DNI",
+      "DIF"
+    ],
+    "transposicao": "isotropica_V21_E4"
+  },
+  "coletado_utc": "2026-11-15T20:12:40.155887+00:00",
+  "hash_csv": "c9d9c827663aa00cb5e6913f9ea9f65bbbbfc41f075fceff7055e6533ae9f10a",
+  "unidades": "GHI/DNI/DIF: W/m² (média horária)",
+  "url": "https://power.larc.nasa.gov/api/temporal/hourly/point"
+}

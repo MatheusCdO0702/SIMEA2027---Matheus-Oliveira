@@ -1,0 +1,9 @@
+﻿id;tentativa;rotulo;modo;ocupacao_relaxada;solver;warm_preparado;warm_solicitado;warm_aceito;tempo_s;limite_tempo_s;f;n_bin;n_var;status;gap_pct;convergido;infeasivel;obj;diagnostico;bound;sol_status;bloco
+1;1;Verif-A;LP;False;HiGHS;False;False;não solicitado;0,08122754096984863;60;1,0;0;226;Optimal;0,0;True;False;1218,9873684210527;False;1218,9873684210527;1,0;Verif-A
+2;1;Verif-B;LP;False;HiGHS;False;False;não solicitado;0,009383678436279297;60;1,0;0;202;Infeasible;N/D;False;True;N/D;False;0,0;-1,0;Verif-B
+2;2;Verif-B [diagnóstico];LP;False;HiGHS;False;False;não solicitado;0,011972665786743164;600;1,0;0;203;Optimal;0,0;True;False;23777,92;True;23777,92;1,0;Verif-B
+3;1;Verif-C;MILP;False;HiGHS;False;False;não solicitado;0,08467745780944824;60;2,0;32;290;Optimal;0,0;True;False;2437,9747368421054;False;2437,9747368421054;1,0;Verif-C
+4;1;Verif-D;LP;False;HiGHS;False;False;não solicitado;0,03151535987854004;60;1,0;0;490;Optimal;0,0;True;False;1430,3803878116341;False;1430,3803878116341;1,0;Verif-D
+5;1;Verif-E;MILP;False;HiGHS;False;False;não solicitado;0,023983001708984375;60;1,0;1;229;Optimal;0,0;True;False;1421,4294736842105;False;1421,4294736842105;1,0;Verif-E
+6;1;Verif-F;LP;False;HiGHS;False;False;não solicitado;0,010396480560302734;60;1,0;0;218;Optimal;0,0;True;False;3502,905122807018;False;3502,905122807018;1,0;Verif-F
+G;1;Verificacao G;LP;N/D;HiGHS;N/D;N/D;N/D;0,0009202999644912779;60;N/D;0;2;Optimal;0,0;True;N/D;0,5000332409972299;N/D;N/D;N/D;verificacao

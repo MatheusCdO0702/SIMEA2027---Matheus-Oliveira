@@ -1,0 +1,24 @@
+﻿bloco;modalidade;comparacao;economia_Rmes;reducao_pico_kW;estados;observacao;diferenca_negativa
+base;verde;gestao;75140,69781101661;2716,743874908843;HEURISTICA_VIAVEL / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+base;verde;regra_simples;42485,43643461226;0,0;HEURISTICA_VIAVEL / HEURISTICA_VIAVEL;"estimativa de incumbentes; consultar limites";False
+base;verde;otimizacao;32655,26137640435;2716,743874908843;HEURISTICA_VIAVEL / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+base;verde;FV;59105,12141220865;33,08361540311682;CONVERGIDO / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+base;verde;BESS;-1,4551915228366852e-11;-5,684341886080801e-13;CONVERGIDO / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+base;azul;gestao;122266,51875980472;2716,7438749088437;HEURISTICA_VIAVEL / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+base;azul;regra_simples;89611,25738340037;0,0;HEURISTICA_VIAVEL / HEURISTICA_VIAVEL;"estimativa de incumbentes; consultar limites";False
+base;azul;otimizacao;32655,26137640435;2716,7438749088437;HEURISTICA_VIAVEL / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+base;azul;FV;59105,1214122087;33,08361540311728;CONVERGIDO / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+base;azul;BESS;-4,3655745685100555e-11;-3,296918293926865e-12;CONVERGIDO / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+conferencia/alvo/6.0h;verde;BESS;17391,961187198045;161,2672107221506;CONVERGIDO / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+conferencia/alvo/8.0h;verde;BESS;12788,230706058544;100,9067143143526;CONVERGIDO / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+conferencia/dois_carregadores;verde;FV;58574,25262339019;15,322826867730555;VIAVEL_COM_GAP / VIAVEL_COM_GAP;"estimativa de incumbentes; consultar limites";False
+conferencia/dois_carregadores;verde;BESS;2142,062669468709;1,6056623518276183;VIAVEL_COM_GAP / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+conferencia/P10_observado;verde;BESS;-5,820766091346741e-11;-1,3642420526593924e-12;CONVERGIDO / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+anual/verao;verde;FV;64033,72171247394;38,13047170991672;CONVERGIDO / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+anual/verao;verde;BESS;-1,1641532182693481e-10;-6,0254023992456496e-12;CONVERGIDO / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+anual/verao;azul;FV;64117,162033799745;45,072262169633404;CONVERGIDO / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+anual/verao;azul;BESS;1,4551915228366852e-11;1,1368683772161603e-13;CONVERGIDO / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+anual/inverno;verde;FV;60083,579018126504;33,08361540311739;CONVERGIDO / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+anual/inverno;verde;BESS;0,0;-3,410605131648481e-13;CONVERGIDO / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+anual/inverno;azul;FV;60083,57901812652;33,08361540311398;CONVERGIDO / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
+anual/inverno;azul;BESS;-1,4551915228366852e-11;0,0;CONVERGIDO / CONVERGIDO;"estimativa de incumbentes; consultar limites";False
